@@ -422,12 +422,4 @@ alias ll='ls -la'
 
 ---
 
-## Resources
-
-- [Linux man pages online](https://linux.die.net/man/)
-- [PATH variable explained](https://www.linfo.org/path_env_var.html)
-- [pwn.college](https://pwn.college) — where most of these concepts were practiced
-
----
-
 *These are personal notes compiled while learning Linux. Corrections and contributions welcome!*
